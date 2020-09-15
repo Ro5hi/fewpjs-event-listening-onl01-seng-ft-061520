@@ -1,2 +1,2 @@
-function addingEventListener(input#input) {
+function addingEventListener() {
 }
